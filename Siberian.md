@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Top 10 Largest Cat Breeds - Ranking"
-permalink: /ranking/siberian
+title: Siberian
+permalink: /Siberian
 ---
-# Name
-- trait
-- trait
+# **Siberian** - more information 
+- [https://pl.siberianhealth.com/pl/](https://pl.siberianhealth.com/pl/) 
+- [https://pl.wikipedia.org/wiki/Syberia](https://pl.wikipedia.org/wiki/Syberia) 
+- [https://en.wikipedia.org/wiki/Siberia](https://en.wikipedia.org/wiki/Siberia) 
